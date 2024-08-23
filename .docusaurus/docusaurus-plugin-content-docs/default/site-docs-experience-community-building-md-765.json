@@ -1,0 +1,27 @@
+{
+  "id": "experience/community-building",
+  "title": "Community building",
+  "description": "As one of the founding DevRel engineers, my job heavily focused on ensuring seamless communication in the developer community. My responsibilities included the creation of new channels from the ground up as well as the management of existing ones:",
+  "source": "@site/docs/experience/community-building.md",
+  "sourceDirName": "experience",
+  "slug": "/experience/community-building",
+  "permalink": "/docs/experience/community-building",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Community building"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical writing",
+    "permalink": "/docs/experience/technical-writing"
+  },
+  "next": {
+    "title": "Marketing & Analytics",
+    "permalink": "/docs/experience/marketing-analytics"
+  }
+}

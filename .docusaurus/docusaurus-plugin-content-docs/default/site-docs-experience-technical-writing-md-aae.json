@@ -1,0 +1,27 @@
+{
+  "id": "experience/technical-writing",
+  "title": "Technical writing",
+  "description": "Throughout my career, I have consistently engaged in various technical writing projects across multiple roles, focusing on clear and effective communication of complex information.",
+  "source": "@site/docs/experience/technical-writing.md",
+  "sourceDirName": "experience",
+  "slug": "/experience/technical-writing",
+  "permalink": "/docs/experience/technical-writing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Technical writing"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Software Development",
+    "permalink": "/docs/experience/software-development"
+  },
+  "next": {
+    "title": "Community building",
+    "permalink": "/docs/experience/community-building"
+  }
+}

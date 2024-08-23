@@ -1,0 +1,14 @@
+{
+  "id": "attribution",
+  "title": "Attribution",
+  "description": "Thank you React Native for the website template.",
+  "source": "@site/docs/attribution.md",
+  "sourceDirName": ".",
+  "slug": "/attribution",
+  "permalink": "/docs/attribution",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

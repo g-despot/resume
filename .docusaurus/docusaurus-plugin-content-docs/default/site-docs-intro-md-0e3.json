@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Intro",
+  "description": "Since beginning my professional career in 2016, I have held various roles and contributed to a wide range of projects.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "2022-2024 Ericsson",
+    "permalink": "/docs/resume/ericsson"
+  }
+}

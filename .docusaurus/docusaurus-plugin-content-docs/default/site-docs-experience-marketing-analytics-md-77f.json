@@ -1,0 +1,23 @@
+{
+  "id": "experience/marketing-analytics",
+  "title": "Marketing & Analytics",
+  "description": "As a DevRel engineer, my job often focused on tracking conversion rates, from observers to community members to customers. I have extensive experience in web analytics and data tracking, which are essential for understanding user behavior and for optimizing the developer experience.",
+  "source": "@site/docs/experience/marketing-analytics.md",
+  "sourceDirName": "experience",
+  "slug": "/experience/marketing-analytics",
+  "permalink": "/docs/experience/marketing-analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Marketing & Analytics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community building",
+    "permalink": "/docs/experience/community-building"
+  }
+}

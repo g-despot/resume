@@ -1,0 +1,27 @@
+{
+  "id": "resume/ericsson",
+  "title": "Ericsson",
+  "description": "Software Developer: October 2022 - Present",
+  "source": "@site/docs/resume/ericsson.md",
+  "sourceDirName": "resume",
+  "slug": "/resume/ericsson",
+  "permalink": "/docs/resume/ericsson",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "2022-2024 Ericsson"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "2020-2022 Memgraph",
+    "permalink": "/docs/resume/memgraph"
+  }
+}

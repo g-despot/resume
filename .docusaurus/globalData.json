@@ -1,0 +1,77 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "attribution",
+              "path": "/docs/attribution"
+            },
+            {
+              "id": "experience/community-building",
+              "path": "/docs/experience/community-building",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "experience/marketing-analytics",
+              "path": "/docs/experience/marketing-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "experience/software-development",
+              "path": "/docs/experience/software-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "experience/technical-writing",
+              "path": "/docs/experience/technical-writing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resume/best-zagreb",
+              "path": "/docs/resume/best-zagreb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resume/ericsson",
+              "path": "/docs/resume/ericsson",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resume/infodom",
+              "path": "/docs/resume/infodom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resume/memgraph",
+              "path": "/docs/resume/memgraph",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "experience/software-development",
+  "title": "Software Development",
+  "description": "I have contributed to both software development and developer experience initiatives. Below are some key responsibilities and achievements from my previous roles:",
+  "source": "@site/docs/experience/software-development.md",
+  "sourceDirName": "experience",
+  "slug": "/experience/software-development",
+  "permalink": "/docs/experience/software-development",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Software Development"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2016-2017 InfoDom",
+    "permalink": "/docs/resume/infodom"
+  },
+  "next": {
+    "title": "Technical writing",
+    "permalink": "/docs/experience/technical-writing"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "resume/best-zagreb",
+  "title": "BEST Zagreb",
+  "description": "Information Technology Coordinator: October 2017 - March 2019",
+  "source": "@site/docs/resume/best-zagreb.md",
+  "sourceDirName": "resume",
+  "slug": "/resume/best-zagreb",
+  "permalink": "/docs/resume/best-zagreb",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "2017-2019 BEST Zagreb"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2020-2022 Memgraph",
+    "permalink": "/docs/resume/memgraph"
+  },
+  "next": {
+    "title": "2016-2017 InfoDom",
+    "permalink": "/docs/resume/infodom"
+  }
+}
