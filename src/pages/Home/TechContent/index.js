@@ -62,8 +62,8 @@ function TechContent() {
         <a href="https://memgraph.com/blog/visualize-the-bitclout-network-using-d3js">
         <div className={styles.card}>
           <ThemeImage
-            lightSrc={useBaseUrl("/img/homepage/fraud.png")}
-            darkSrc={useBaseUrl("/img/homepage/fraud.png")}
+            lightSrc={useBaseUrl("/img/homepage/blockchain.png")}
+            darkSrc={useBaseUrl("/img/homepage/blockchain.png")}
             className={styles.cardImage}
             alt="Blockchain analysis"
           />
@@ -78,8 +78,8 @@ function TechContent() {
         <a href="https://github.com/memgraph/starlink/blob/master/blog_post/blog-post.md">
         <div className={styles.card}>
           <ThemeImage
-            lightSrc={useBaseUrl("/img/homepage/fraud.png")}
-            darkSrc={useBaseUrl("/img/homepage/fraud.png")}
+            lightSrc={useBaseUrl("/img/homepage/starlink.png")}
+            darkSrc={useBaseUrl("/img/homepage/starlink.png")}
             className={styles.cardImage}
             alt="Kafka stream analysis"
           />
