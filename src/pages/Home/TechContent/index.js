@@ -28,8 +28,8 @@ function TechContent() {
         <a href="https://dev.to/gdespot/analyzing-real-time-movie-reviews-with-redpanda-and-memgraph-125">
         <div className={styles.card}>
           <ThemeImage
-            lightSrc="/img/homepage/social.png"
-            darkSrc="/img/homepage/social.png"
+            lightSrc={useBaseUrl("/img/homepage/social.png")}
+            darkSrc={useBaseUrl("/img/homepage/social.png")}
             className={styles.cardImage}
             alt="Recommendation machine"
           />
@@ -44,8 +44,8 @@ function TechContent() {
         <a href="https://dev.to/gdespot/how-to-develop-a-credit-card-fraud-detection-application-using-memgraph-flask-and-d3-js-4n17">
         <div className={styles.card}>
           <ThemeImage
-            lightSrc="/img/homepage/fraud.png"
-            darkSrc="/img/homepage/fraud.png"
+            lightSrc={useBaseUrl("/img/homepage/fraud.png")}
+            darkSrc={useBaseUrl("/img/homepage/fraud.png")}
             className={styles.cardImage}
             alt="Financial Fraud Detection"
           />
@@ -62,8 +62,8 @@ function TechContent() {
         <a href="https://memgraph.com/blog/visualize-the-bitclout-network-using-d3js">
         <div className={styles.card}>
           <ThemeImage
-            lightSrc="/img/homepage/blockchain.png"
-            darkSrc="/img/homepage/blockchain.png"
+            lightSrc={useBaseUrl("/img/homepage/fraud.png")}
+            darkSrc={useBaseUrl("/img/homepage/fraud.png")}
             className={styles.cardImage}
             alt="Blockchain analysis"
           />
@@ -78,8 +78,8 @@ function TechContent() {
         <a href="https://github.com/memgraph/starlink/blob/master/blog_post/blog-post.md">
         <div className={styles.card}>
           <ThemeImage
-            lightSrc="/img/homepage/starlink.png"
-            darkSrc="/img/homepage/starlink.png"
+            lightSrc={useBaseUrl("/img/homepage/fraud.png")}
+            darkSrc={useBaseUrl("/img/homepage/fraud.png")}
             className={styles.cardImage}
             alt="Kafka stream analysis"
           />

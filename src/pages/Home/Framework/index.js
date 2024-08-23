@@ -31,8 +31,8 @@ function Framework() {
         <a href={useBaseUrl(`/docs/experience/software-development`)}>
         <div className={styles.card}>
           <ThemeImage
-            lightSrc="/img/homepage/software.png"
-            darkSrc="/img/homepage/software.png"
+            lightSrc={useBaseUrl("/img/homepage/software.png")}
+            darkSrc={useBaseUrl("/img/homepage/software.png")}
             className={styles.cardImage}
             alt="Software Development"
           />
@@ -47,8 +47,8 @@ function Framework() {
         <a href={useBaseUrl(`/docs/experience/technical-writing`)}>
         <div className={styles.card}>
           <ThemeImage
-            lightSrc="/img/homepage/tech-writing.png"
-            darkSrc="/img/homepage/tech-writing.png"
+            lightSrc={useBaseUrl("/img/homepage/tech-writing.png")}
+            darkSrc={useBaseUrl("/img/homepage/tech-writing.png")}
             className={styles.cardImage}
             alt="Grid of icons representing libraries, SDKs, and native code"
           />
@@ -65,8 +65,8 @@ function Framework() {
         <a href={useBaseUrl(`/docs/experience/community-building`)}>
         <div className={styles.card}>
           <ThemeImage
-            lightSrc="/img/homepage/community.png"
-            darkSrc="/img/homepage/community.png"
+            lightSrc={useBaseUrl("/img/homepage/community.png")}
+            darkSrc={useBaseUrl("/img/homepage/community.png")}
             className={styles.cardImage}
             alt="List of developer tool toggles for debugging, performance, and more"
           />
@@ -81,8 +81,8 @@ function Framework() {
         <a href={useBaseUrl(`/docs/experience/marketing-analytics`)}>
         <div className={styles.card}>
           <ThemeImage
-            lightSrc="/img/homepage/analytics.png"
-            darkSrc="/img/homepage/analytics.png"
+            lightSrc={useBaseUrl("/img/homepage/analytics.png")}
+            darkSrc={useBaseUrl("/img/homepage/analytics.png")}
             className={styles.cardImage}
             alt="Marketing & Analytics"
           />
