@@ -19,7 +19,7 @@ Below, you will find detailed information about my experiences, interests, and t
 
 ## Experience & Skills
 
-- [Software Development](./experience/software-development): lorem ipsum
-- [Technical Writing](./experience/technical-writing): lorem ipsum
-- [Community Building](./experience/community-building): lorem ipsum
-- [Marketing & Analytics](./experience/marketing-analytics): lorem ipsum
+- [Software Development](./experience/software-development)
+- [Technical Writing](./experience/technical-writing)
+- [Community Building](./experience/community-building)
+- [Marketing & Analytics](./experience/marketing-analytics)
