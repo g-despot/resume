@@ -9,20 +9,22 @@ import React from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import ThemeImage from '../components/ThemeImage';
 import Section from '../components/Section';
-import SectionTitle from '../components/SectionTitle';
+import SectionSubTitle from '../components/SectionSubTitle';
 
 import styles from './styles.module.css';
 
 function TechContent() {
   return (
     <Section>
-      <SectionTitle
-        title="These are some of the contributions I am most proud of"
+      <SectionSubTitle
+        title="Here you can find some examples of my advocacy and engineering work"
         description={
           <>
-           
+           You can check out more of my contributions in the section {' '} 
           </>
         }
+        url={useBaseUrl("/docs/experience/software-development")}
+        url_text="You can check out more of my contributions in the section Experience & Skills."
       />
       <div className={styles.cardContainer}>
         <a href="https://dev.to/gdespot/analyzing-real-time-movie-reviews-with-redpanda-and-memgraph-125">
@@ -34,9 +36,9 @@ function TechContent() {
             alt="Recommendation machine"
           />
           <div className={styles.cardContent}>
-            <h4 className={styles.cardTitle}>Recommendation machine</h4>
+            <h4 className={styles.cardTitle}>Recommendation engine with streaming data</h4>
             <p className={styles.cardDescription}>
-            Analyzing Real-Time Movie Reviews with Redpanda and Memgraph
+            Analyzing real-time movie reviews with Redpanda and Memgraph
             </p>
           </div>
         </div>
@@ -51,10 +53,10 @@ function TechContent() {
           />
           <div className={styles.cardContent}>
             <h4 className={styles.cardTitle}>
-            Financial Fraud Detection
+            Financial fraud detection with graph analysis
             </h4>
             <p className={styles.cardDescription}>
-            How to Develop a Credit Card Fraud Detection Application using Memgraph, Flask, and D3.js
+            How to develop a credit card fraud aetection application using Memgraph, Flask, and D3.js
             </p>
           </div>
         </div>
@@ -70,7 +72,7 @@ function TechContent() {
           <div className={styles.cardContent}>
             <h4 className={styles.cardTitle}>Blockchain analysis</h4>
             <p className={styles.cardDescription}>
-            Building a BitClout Social Network Visualization App With Memgraph and D3.js
+            Building a BitClout blockchain social network visualization app with Memgraph and D3.js
             </p>
           </div>
         </div>
@@ -85,10 +87,28 @@ function TechContent() {
           />
           <div className={styles.cardContent}>
             <h4 className={styles.cardTitle}>
-            Kafka stream analysis
+            Kafka stream & graph analysis
             </h4>
             <p className={styles.cardDescription}>
-            Using Graph Databases for Low Latency Routing in the Starlink Satellite Network
+            Using graph databases and Redis for low latency routing in the Starlink satellite network
+            </p>
+          </div>
+        </div>
+        </a>
+        <a href="https://github.com/memgraph/gqlalchemy/">
+        <div className={styles.card}>
+          <ThemeImage
+            lightSrc={useBaseUrl("/img/homepage/gqlalchemy.png")}
+            darkSrc={useBaseUrl("/img/homepage/gqlalchemy.png")}
+            className={styles.cardImage}
+            alt="Python library development"
+          />
+          <div className={styles.cardContent}>
+            <h4 className={styles.cardTitle}>
+            Python library development
+            </h4>
+            <p className={styles.cardDescription}>
+            Development of an open-source library for interacting with graph databases
             </p>
           </div>
         </div>

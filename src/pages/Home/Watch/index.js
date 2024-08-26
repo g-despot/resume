@@ -20,7 +20,7 @@ function Watch() {
         description={
           <>
             During my time at Memgraph I participated in a lot of remote meetups and conferences. You can read more about my advocacy and evngelism experience {' '}
-            <a href="https://twitter.com/intent/follow?screen_name=reactnative&region=follow_link">
+            <a href="https://g-despot.github.io/resume/docs/experience/community-building">
               here
             </a>
             .
