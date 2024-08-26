@@ -93,6 +93,24 @@ function TechContent() {
           </div>
         </div>
         </a>
+        <a href="https://github.com/memgraph/gqlalchemy/">
+        <div className={styles.card}>
+          <ThemeImage
+            lightSrc={useBaseUrl("/img/homepage/gqlalchemy.png")}
+            darkSrc={useBaseUrl("/img/homepage/gqlalchemy.png")}
+            className={styles.cardImage}
+            alt="Python library development"
+          />
+          <div className={styles.cardContent}>
+            <h4 className={styles.cardTitle}>
+            Python library development
+            </h4>
+            <p className={styles.cardDescription}>
+            Development of an open-source library for interacting with graph databases
+            </p>
+          </div>
+        </div>
+        </a>
       </div>
     </Section>
   );
