@@ -90,7 +90,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Resume',
+            label: 'Resume & Experience',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
