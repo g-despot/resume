@@ -7,14 +7,14 @@
 
 import React from 'react';
 
-import Framework from './Framework';
+import Resume from './Resume';
 import Watch from './Watch';
 import TechContent from './TechContent';
 
 export default function Home() {
   return (
     <>
-      <Framework />
+      <Resume />
       <Watch />
       <TechContent />
     </>

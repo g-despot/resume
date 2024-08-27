@@ -15,7 +15,7 @@ Below, you will find detailed information about my experiences, interests, and t
 | [Software Developer](./resume/ericsson) | Ericsson | October 2022 - Present |
 | [Developer Relations Engineer](./resume/memgraph) | Memgraph | July 2020 - July 2022 |
 | [Information Technology Coordinator](./resume/best-zagreb) | BEST Zagreb | October 2017 - March 2019 |
-| [Junior Software Engineer](./resume/infodom) | Infodom | July 2016 - July 2017 |
+| [Junior Software Engineer](./resume/infodom) | InfoDom | July 2016 - July 2017 |
 
 ## Experience & Skills
 

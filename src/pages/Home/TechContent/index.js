@@ -56,7 +56,7 @@ function TechContent() {
             Financial fraud detection with graph analysis
             </h4>
             <p className={styles.cardDescription}>
-            How to develop a credit card fraud aetection application using Memgraph, Flask, and D3.js
+            How to develop a credit card fraud detection application using Memgraph, Flask, and D3.js
             </p>
           </div>
         </div>

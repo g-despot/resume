@@ -13,7 +13,7 @@ import SectionTitle from '../components/SectionTitle';
 
 import styles from './styles.module.css';
 
-function Framework() {
+function Resume() {
   return (
     <Section>
       <SectionTitle
@@ -119,4 +119,4 @@ function Framework() {
   );
 }
 
-export default Framework;
+export default Resume;

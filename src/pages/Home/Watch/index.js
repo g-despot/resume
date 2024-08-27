@@ -19,7 +19,7 @@ function Watch() {
         title="And this is me talking on camera"
         description={
           <>
-            During my time at Memgraph I participated in a lot of remote meetups and conferences. You can read more about my advocacy and evangelism experience {' '}
+            During my time at Memgraph, I participated in a lot of remote meetups and conferences. You can read more about my advocacy and evangelism experience {' '}
             <a href="https://g-despot.github.io/resume/docs/experience/community-building">
               here
             </a>
