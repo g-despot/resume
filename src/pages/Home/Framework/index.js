@@ -17,7 +17,7 @@ function Framework() {
   return (
     <Section>
       <SectionTitle
-        title="Hi, I’m Ivan and this is resume"
+        title="Hi, I’m Ivan and this is my resume"
         description={
           <>
             I am currently working as a Software Developer at Ericsson, contributing to the development and testing and Ericsson's flagship products.           
@@ -106,10 +106,10 @@ function Framework() {
           />
           <div className={styles.cardContent}>
             <h4 className={styles.cardTitle}>
-            Project Management & Agile
+            Project Management & Agile Methodology
             </h4>
             <p className={styles.cardDescription}>
-            I led both development and marketing initiatives by utilizing Agile methodologies nad participated in the hiring process
+            I led both development and marketing initiatives by utilizing Agile methodologies and participated in the hiring process
             </p>
           </div>
         </div>
