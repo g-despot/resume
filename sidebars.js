@@ -52,6 +52,9 @@ const sidebars = {
       }, {
         type: 'doc',
         id: 'experience/marketing-analytics',
+      }, {
+        type: 'doc',
+        id: 'experience/project-management',
       },
       ],
     },
