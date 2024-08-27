@@ -96,6 +96,24 @@ function Framework() {
           </div>
         </div>
         </a>
+        <a href={useBaseUrl(`/docs/experience/project-management`)}>
+        <div className={styles.card}>
+          <ThemeImage
+            lightSrc={useBaseUrl("/img/homepage/management.png")}
+            darkSrc={useBaseUrl("/img/homepage/management.png")}
+            className={styles.cardImage}
+            alt="Marketing & Analytics"
+          />
+          <div className={styles.cardContent}>
+            <h4 className={styles.cardTitle}>
+            Project Management & Agile
+            </h4>
+            <p className={styles.cardDescription}>
+            I led both development and marketing initiatives by utilizing Agile methodologies nad participated in the hiring process
+            </p>
+          </div>
+        </div>
+        </a>
       </div>
     </Section>
   );

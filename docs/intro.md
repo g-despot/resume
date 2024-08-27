@@ -23,3 +23,4 @@ Below, you will find detailed information about my experiences, interests, and t
 - [Technical Writing](./experience/technical-writing)
 - [Community Building](./experience/community-building)
 - [Marketing & Analytics](./experience/marketing-analytics)
+- [Project Management & Agile](./experience/project-management)
